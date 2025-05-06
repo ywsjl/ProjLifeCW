@@ -1,1 +1,4 @@
 # ProjLifeCW
+The interactive dashboard aims to visualise graduate employment data from Singapore universities, empowering prospective students to make informed educational decisions. Users can instantly compare employment rates and starting salaries across different degree programs and institutions, allowing them to evaluate the potential return on investment for their university education. By making this comparative data accessible and intuitive, the dashboard helps future students align their academic choices with their career and financial goals.
+
+The focus for key analytics, was on the potential correlations between salary growth patterns and emerging industries in Singapore's economy, allowing users to identify which degrees aligns with evolving market demands and technological transformations.
